@@ -13,3 +13,7 @@ Black Mesa security guard Barney Calhoun, operating undercover for the Resistanc
 Alyx, daughter of Eli Vance, a former Black Mesa employee now leading the Resistance against the Combine, 
 takes Gordon to Dr. Kleiner's lab, where he is given an H.E.V. Suit and instructed to be teleported to Black Mesa 
 East with Alyx where he will be able to work alongside other scientists.
+
+
+After teleporting Alyx, Gordon is next, but the interruption from Kleiner's pet headcrab, Lamarr, causes a malfunction in the teleporter leading Gordon to 
+Dr. Breen's office, who recognizes him as a threat and puts the Combine forces on alert.
